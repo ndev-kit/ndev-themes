@@ -15,36 +15,34 @@ napari themes for the ndev-kit, for fun
 
 This [napari] plugin was generated with [copier] using the [napari-plugin-template].
 
-<!--
-Don't miss the full getting started guide to set up your new package:
-https://github.com/napari/napari-plugin-template#getting-started
+This plugin provides themes for napari, which can be selected in the napari settings (Preferences > Appearance). This is intended to be a fun way to test that napari plugin themes are working as expected and for learning to share this information and support users. You still may find these useful!
 
-and review the napari docs for plugin developers:
-https://napari.org/stable/plugins/index.html
--->
+### Cozy Theme
+
+A warm and cozy theme with brownish colors, intended to introduce a gray canvas for different visualizations.
+
+![ndev-cozy theme](./resources/ndev-cozy.png)
 
 ## Installation
 
 You can install `ndev-themes` via [pip]:
 
-```
+```bash
 pip install ndev-themes
 ```
 
 If napari is not already installed, you can install `ndev-themes` with napari and Qt via:
 
-```
+```bash
 pip install "ndev-themes[all]"
 ```
 
 
 To install latest development version :
 
-```
+```bash
 pip install git+https://github.com/ndev-kit/ndev-themes.git
 ```
-
-
 
 ## Contributing
 
