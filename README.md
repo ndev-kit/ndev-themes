@@ -21,7 +21,7 @@ This plugin provides themes for napari, which can be selected in the napari sett
 
 A warm and cozy theme with brownish colors, intended to introduce a gray canvas for different visualizations.
 
-![ndev-cozy theme](./resources/ndev-cozy.png)
+![ndev-cozy theme](https://raw.githubusercontent.com/ndev-kit/ndev-themes/main/resources/ndev-cozy.png)
 
 ## Installation
 
